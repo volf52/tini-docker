@@ -1,6 +1,6 @@
-# Minimal Image for UPX
+# Minimal Image for tini
 
-Use it to compress binaries easily.
+https://github.com/krallin/tini
 
 ## Usage
 
